@@ -1,0 +1,5 @@
+This is a project to help the user contribute to open source projects.
+The user will introduce a link with an open source project. You will save the link into a MD file, creating a different file for each project.
+After that and after confirming with the user you will use the Chrome browser to scrape open issues from the last year, with a limit of 20, that are not assigned to anyone. Use github filters for that. Also check the FEEDBACK.MD and the corresponding project md file for previous feedback.
+You will write the issues in the corresponding MD file of the project, with a short description of each one. You will also print them so I can see them in the Codex UI.
+After that I will give you feedback in some or all the issues, ie, maybe I can't fix an issue because it's in specific hardware that I don't have. You will write down the feedback in its corresponding project file. You will also write down feedback that could be considered more general (ie. not specific things about a project) in FEEDBACK.MD. You will use this feedback both the general and the project specific to look for issues that are more tailored to me. 
